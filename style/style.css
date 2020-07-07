@@ -17,13 +17,10 @@ body{
     padding: 20px 40px;
 }
 
-
-.banner .h2{
-    font-weight: 600;
-}
 .details h2{
     font-weight: 700;
     padding: 10px 0px;
+    color: black;
 }
 .details p{
     color: #383838;
@@ -40,6 +37,14 @@ button{
     font-size: small;
     letter-spacing: 1px;
 }
+
+.carousel-indicators li{
+    height: 5px;
+    border-radius: 12px;
+    border: 0;
+    background-color: #ffb31c;
+}
+
 /* Smartphone */
 .smartphone{
     margin-top: 150px;
