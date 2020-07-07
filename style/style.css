@@ -1,0 +1,115 @@
+/* header */
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+#home ul li a{
+    color: #424242;
+    font-size: small;
+    padding: 10px;
+    font-weight: 500;
+}
+
+/*Banner*/
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+
+.banner .h2{
+    font-weight: 600;
+}
+.details h2{
+    font-weight: 700;
+    padding: 10px 0px;
+}
+.details p{
+    color: #383838;
+    font-size: small;
+    word-spacing: 2px;
+    padding: 10px 0px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: small;
+    letter-spacing: 1px;
+}
+/* Smartphone */
+.smartphone{
+    margin-top: 150px;
+}
+
+.smartphone .d-flex a{
+    color: #ffb31c;
+}
+
+.smartphone .col-md-4 .card{
+    border: none;
+    box-shadow: 1px 1px 32px -22px rgba(0,0,0,0.75);
+    border-radius: 15px;
+    padding: 30px;
+}
+
+.smartphone .card-body h5{
+    font-weight: 600;
+}
+.smartphone .card-body p{
+    font-size: small;
+    color: #383838;
+}
+
+/* Laptop */
+.laptop{
+    margin-top: 150px;
+}
+.laptop .d-flex a{
+    color: #ffb31c;
+}
+
+.laptop .col-md-4 .card{
+    border: none;
+    box-shadow: 1px 1px 32px -22px rgba(0,0,0,0.75);
+    border-radius: 15px;
+    padding: 30px;
+}
+
+.laptop .card-body h5{
+    font-weight: 600;
+}
+.laptop .card-body p{
+    font-size: small;
+    color: #383838;
+}
+
+/*Categories*/
+
+.categories{
+    margin-top: 120px;
+    margin-bottom: 100px;
+}
+.categories .cat{
+    width: 160px;
+    padding: 5px;
+    margin: auto;
+    border-bottom: 6px solid #ffb31c;
+    border-radius: 10px;
+}
+.categories .item{
+    padding: 40px;
+    box-shadow: 1px 1px 32px -22px rgba(0,0,0,0.75);
+}
+.categories .item-preorder{
+    padding: 40px;
+}
+
+/* Footer */
+
+footer{
+    font-size: small;
+}
